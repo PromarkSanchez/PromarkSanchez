@@ -34,7 +34,7 @@
 ### 🚀 Star Infrastructure: [AtiqBot Core Engine]
 > *Orquestación inteligente para escala industrial.*
 
-```javascript
+ 
 const atiqbot_kernel = {
   computing: "C++ Native Vector Optimization (Bitwise Aware)",
   capacity: "10,000+ Concurrent Multi-sessions",
@@ -58,4 +58,4 @@ Entiendo el desarrollo como el carril central de Dota 2: reacción instantánea 
 <br />
 <img src="https://komarev.com/ghpvc/?username=PromarkSanchez&color=00f2ff&style=flat-square&label=TERMINAL_ACCESS" alt="Visitor Count" />
 </div>
-```
+ 
