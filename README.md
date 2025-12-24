@@ -1,69 +1,81 @@
-# ¡Hola! Soy Perseo Sanchez <img src="https://media.giphy.com/media/hvRJCLzz8CXT357obC/giphy.gif" width="28px">
+<div align="center">
+  
+<!-- Banner Superior Dinámico -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1b2,70:0052D4,100:6441A5&height=250&section=header&text=Perseo%20Sanchez&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-### Full-Stack Developer & AI Engineer | MLOps | Architect of Agentic Systems
+<!-- Foto de Perfil con Marco de Neón -->
+<img src="https://avatars.githubusercontent.com/u/189292448?s=400&u=74cf5e1c20bdc76eab26e33a61463419c0a6fda7&v=4" width="150" style="border-radius: 50%; border: 3px solid #00d1b2; margin-top: -75px;" />
 
-<p align="left">
-<a href="https://atiqtec.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Senior%20Dev%20at-Atiqtec-blueviolet?style=for-the-badge&logo=rocket" alt="Atiqtec" />
-</a>
-<a href="https://linkedin.com/in/perseo-sanchez-valverde-7075b4110" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-</p>
+# 🚀 AI Agent Architect & Full-Stack Systems Engineer
 
----
-
-### 🤖 Sobre mí
-
-Soy un ingeniero apasionado por la convergencia entre el desarrollo de software de alto rendimiento y la inteligencia artificial de nivel empresarial. Me especializo en diseñar arquitecturas donde los LLMs no solo responden preguntas, sino que actúan como **Agentes Autónomos** con memoria a largo plazo, herramientas dinámicas (tools) y razonamiento complejo.
-
-- 🔭 **En qué estoy trabajando:** Construyendo plataformas de IA escalables en [Atiqtec](https://atiqtec.com/).
-- 🧠 **Especialidad en IA:** Implementación de flujos **RAG avanzados**, bases de datos vectoriales y orquestación de agentes con **LangChain** y **FastAPI**.
-- 🛠️ **DevOps & MLOps:** Automatización de despliegues, monitoreo de modelos en producción y arquitecturas en la nube.
-- 🎮 **Fun fact:** En mis tiempos libres, me encuentras ganando (o perdiendo) partidas en **Dota 2**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/perseo-sanchez-valverde-7075b4110)
+[![Website](https://img.shields.io/badge/Atiqtec-Visit-blueviolet?style=for-the-badge&logo=rocket)](https://atiqtec.com/)
+[![Support](https://img.shields.io/badge/Dota%202-Add%20Me-red?style=for-the-badge&logo=dota2&logoColor=white)](https://steamcommunity.com/)
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🧬 Professional Ecosystem
 
-| Categoría | Tecnologías |
+> *Especializado en cerrar la brecha entre el Software de alto rendimiento y la Inteligencia Artificial Agéntica Autónoma.*
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromarkSanchez&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" width="45%" align="right" />
+</div>
+
+#### 🧠 Neural Core (IA & Agentes)
+*   **Agentic Frameworks:** Diseño de agentes con razonamiento, herramientas (tool-use) y ciclos de autorreflexión.
+*   **Memory Architectures:** Implementación de Short-term & Long-term memory mediante **PgVector**, Pinecone y arquitecturas RAG avanzadas.
+*   **LLMOps:** Pipeline de evaluación de modelos, fine-tuning y despliegue escalable de LLMs.
+
+#### 🏗️ Systems Engineering
+*   **Backend Mastery:** Python (FastAPI/LangChain), Go (Concurrency), C++ (Performance), C#, Node.js & Deno.
+*   **Advanced Databases:** SQL de alto volumen (PostgreSQL, MySQL) y vector databases para recuperación semántica.
+*   **Modern Frontend:** Interfaces ultra-rápidas con React, Next.js 14 y TypeScript.
+
+<br clear="both" />
+
+---
+
+### 🛠️ The Forge (Tech Stack)
+
+<div align="center">
+
+| Area | Icons |
 | :--- | :--- |
-| **IA & Data Science** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=chainlink) ![FastAPI](https://img.shields.io/badge/-FastAPI-05998b?style=flat-square&logo=fastapi&logoColor=white) ![PgVector](https://img.shields.io/badge/-PgVector-336791?style=flat-square&logo=postgresql) |
-| **Backend Dominance** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=dot-net&logoColor=white) |
-| **Frontend Mastery** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **DevOps / MLOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **IA & Python** | [![My Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi,flask)](https://skillicons.dev) |
+| **Languages** | [![My Skills](https://skillicons.dev/icons?i=cpp,cs,go,nodejs,typescript,deno)](https://skillicons.dev) |
+| **Data & Cloud** | [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,githubactions,aws)](https://skillicons.dev) |
+| **Frontend** | [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)](https://skillicons.dev) |
+
+</div>
 
 ---
 
-### 🚀 Agentic AI Expertise
-- **RAG & Context Management:** Uso de PgVector y arquitecturas multietapa para recuperación de datos ultra-precisa.
-- **Agent Memory & Skills:** Creación de sistemas con memoria persistente y capacidad de ejecución de herramientas externas.
-- **Enterprise-Ready AI:** Desarrollo de microservicios robustos con Python y FastAPI optimizados para baja latencia.
-
----
-
-### 📊 Mis Estadísticas de GitHub
+### 📊 Tactical Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PromarkSanchez&show_icons=true&theme=dracula&count_private=true" alt="Estadísticas de Perseo" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromarkSanchez&layout=compact&theme=dracula&hide=html,css" alt="Lenguajes más usados" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PromarkSanchez&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PromarkSanchez&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PromarkSanchez&theme=vision-friendly-dark&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📬 Hablemos
-Si buscas integrar agentes de IA en tu infraestructura o simplemente quieres charlar sobre las nuevas capacidades de los LLMs:
-
-- 🌍 **Sitio Web:** [atiqtec.com](https://atiqtec.com/)
-- 💼 **LinkedIn:** [Perseo Sanchez](https://linkedin.com/in/perseo-sanchez-valverde-7075b4110)
-- 🎮 **Steam:** Miembro activo de la comunidad de Dota 2.
+### ⚔️ Weekly Training Log (GitHub Activity Snake)
+<div align="center">
+  <img src="https://github-user-contents.emre.me/snake.svg" width="100%" alt="GitHub Snake" />
+</div>
 
 ---
-<p align="center">
-  <i>"El código es poesía, pero los agentes inteligentes son los poetas."</i>
-</p>
+
+### 🎮 Beyond the Terminal
+Cuando no estoy desplegando agentes inteligentes o optimizando infraestructuras en **Atiqtec**, estoy aplicando estrategia en tiempo real en **Dota 2**. Entiendo el código como el Dota: *Cada rol es crítico, el timing lo es todo y la optimización constante decide la victoria.*
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Any%20sufficiently%20advanced%20technology%20is%20indistinguishable%20from%20magic.&author=Arthur%20C.%20Clarke" width="80%" />
+</div>
+
+<div align="center">
+  <sub>Profile build #2024.1 - Engineered with precision by <b>Perseo Sanchez</b></sub>
+</div>
