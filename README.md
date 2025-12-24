@@ -19,6 +19,8 @@
 
 </div>
 
+<br />
+
 #### 🧠 Deep AI & Intelligence Orchestration
 - **Vector Engine Internals:** Optimización de índices **HNSW** y operaciones binarias.
 - **Advanced Inference Models:** Protocolos **CAG** y optimización **TOON**.
@@ -28,6 +30,8 @@
 - **Concurrency Mastery:** Arquitecturas en **FastAPI, Go y C#** para **+10k usuarios**.
 - **Web Engineering:** Next.js 14, React Query, streaming por **SSE** y Tailwind.
 - **Enterprise Ops:** Seguridad bimodal (**JWT/MFA**) y Active Directory.
+
+<br />
 
 ---
 
@@ -42,15 +46,18 @@ const atiqbot_kernel = {
   protocol: "Next-Gen TOON & CAG Implementation",
   security: "Hybrid Auth: JWT + AD + Fernet Encrypted Data"
 };
+<br />
 ⚒️ System & Development Forge
 Core & Performance	AI & Backend	Frontend & UI	Infra & Runtime
 <img src="https://skillicons.dev/icons?i=cpp,c,cs" />	<img src="https://skillicons.dev/icons?i=py,fastapi,pytorch" />	<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" />	<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux" />
+<br />
 📈 Internal Performance Logs (Capability Score)
 Operational Track	Progress Metrics	Status
 Low-Level Dev	████████████████████ 100%	EXCELLENT
 Generative AI	████████████████████ 100%	MASTERED
 Scalable Infra	██████████████████░░ 95%	STABLE
 Enterprise Security	████████████████████ 100%	ENCRYPTED
+<br />
 🕹️ Strategy Node (The Dota Perspective)
 Entiendo el desarrollo como el carril central de Dota 2: reacción instantánea y timing quirúrgico. Si un microservicio pierde la sincronía, el sistema colapsa. Mi meta: la victoria definitiva en producción.
 <br />
@@ -59,4 +66,3 @@ Entiendo el desarrollo como el carril central de Dota 2: reacción instantánea 
 <br /><br />
 <img src="https://komarev.com/ghpvc/?username=PromarkSanchez&color=00f2ff&style=flat-square&label=TERMINAL_ACCESS" alt="Visitor Count" />
 </div>
-```
