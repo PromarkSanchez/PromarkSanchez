@@ -21,7 +21,7 @@
 
 #### 🧠 Deep AI & Intelligence Orchestration
 - **Vector Engine Internals:** Optimización de índices **HNSW** y operaciones binarias.
-- **Advanced Inference Models:** Protocolos **CAG** y optimización **TOON** para baja latencia.
+- **Advanced Inference Models:** Protocolos **CAG** y optimización **TOON**.
 - **Agentic Systems:** Grafos autónomos (**LangGraph**) y servidores **MCP**.
 
 #### 🏗️ High-Performance Systems Engineering
@@ -34,7 +34,7 @@
 ### 🚀 Star Infrastructure: [AtiqBot Core Engine]
 > *Orquestación inteligente para escala industrial.*
 
- 
+```javascript
 const atiqbot_kernel = {
   computing: "C++ Native Vector Optimization (Bitwise Aware)",
   capacity: "10,000+ Concurrent Multi-sessions",
@@ -53,9 +53,10 @@ Scalable Infra	██████████████████░░ 95%	
 Enterprise Security	████████████████████ 100%	ENCRYPTED
 🕹️ Strategy Node (The Dota Perspective)
 Entiendo el desarrollo como el carril central de Dota 2: reacción instantánea y timing quirúrgico. Si un microservicio pierde la sincronía, el sistema colapsa. Mi meta: la victoria definitiva en producción.
+<br />
 <div align="center">
 <kbd><b>IDENTITY: PERSEO_SANCHEZ</b></kbd> | <kbd>STABLE BUILD 2.5.0-V4</kbd>
-<br />
+<br /><br />
 <img src="https://komarev.com/ghpvc/?username=PromarkSanchez&color=00f2ff&style=flat-square&label=TERMINAL_ACCESS" alt="Visitor Count" />
 </div>
- 
+```
