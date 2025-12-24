@@ -1,72 +1,68 @@
 <div align="center">
 
-<!-- Banner Estilizado con Gradiente AI -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=PERSEO%20SANCHEZ&fontSize=60&fontColor=00ffdc&animation=twinkling" width="100%" />
+<!-- Header Tecnológico -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0e14&height=180&section=header&text=PERSEO%20SANCHEZ&fontSize=70&fontColor=00f2ff&desc=AI%20AGENT%20ARCHITECT%20|%20ENTERPRISE%20SYSTEMS&descSize=20&descAlignY=70&animation=fadeIn" width="100%" />
 
-<!-- Foto de Perfil con Marco de Neón -->
-<img src="https://avatars.githubusercontent.com/u/189292448?v=4" width="160" style="border-radius: 50%; border: 4px solid #00ffdc; box-shadow: 0 0 20px #00ffdc; margin-top: -80px; position: relative;" />
+<!-- Foto con Efecto Neon -->
+<img src="https://avatars.githubusercontent.com/u/189292448?v=4" width="140" style="border-radius: 50%; border: 3px solid #00f2ff; box-shadow: 0 0 15px #00f2ff; margin-top: -70px;" />
 
-## 🤖 AI AGENT ARCHITECT & FULL-STACK ENGINEER
-**Building Enterprise Intelligence @ [Atiqtec](https://atiqtec.com/)**
+### `[ STATUS: ACTIVE ]` • `[ LEVEL: SENIOR_DEV ]` • `[ REGION: PERU ]`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/perseo-sanchez-valverde-7075b4110)
-[![Dota 2](https://img.shields.io/badge/Dota_2-Strategist-red?style=for-the-badge&logo=dota2&logoColor=white)](https://steamcommunity.com/)
-[![Web](https://img.shields.io/badge/Website-Live-00ffdc?style=for-the-badge&logo=rocket&logoColor=black)](https://atiqtec.com/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/perseo-sanchez-valverde-7075b4110)
+[![Atiqtec](https://img.shields.io/badge/Enterprise-Atiqtec-7119ea?style=for-the-badge&logo=rocket)](https://atiqtec.com/)
 
 </div>
 
 ---
 
-### 🧬 AI & Engineering Focus
-Desarrollo sistemas que no solo procesan información, sino que **razonan**. Mi enfoque principal es la orquestación de agentes con **capacidades cognitivas**:
-*   **Memory Management:** Sistemas RAG avanzados con **PgVector** y memorias a largo plazo.
-*   **Autonomous Agents:** Desarrollo de grafos de agentes autónomos (LangChain/LangGraph).
-*   **Low-Level & High-Performance:** Optimización con **Go** y **C++** para motores de IA.
+### 🌑 Engineering in the Shadows
+*Como Ingeniero de IA en entornos empresariales (**Atiqtec**), la mayoría de mis desarrollos viven en entornos de seguridad privada. Sin embargo, mi dominio técnico se extiende por los siguientes pilares de alta complejidad:*
+
+#### 🤖 Agentic AI & Intelligence Orchestration
+*   **Sistemas Agénticos Autónomos:** Diseño de grafos de razonamiento donde la IA utiliza herramientas (tool-calling) para resolver tareas complejas.
+*   **Memoria Semántica:** Implementación de flujos **RAG avanzados** utilizando **PgVector**, optimizando la recuperación de contexto a nivel corporativo.
+*   **LLMOps & Lifecycle:** Despliegue, monitoreo y fine-tuning de modelos LLM con arquitecturas escalables.
+
+#### 🏗️ Multilingual Backend Core
+*   **Performance:** Construcción de servicios de alta disponibilidad en **Go**, **C++** y **C#**.
+*   **Architecture:** Especialista en **Python (FastAPI)** para orquestación de inteligencia artificial y microservicios modernos en **Node.js** y **Deno**.
 
 ---
 
-### 🛠️ Master Tech Stack
-*Habilidades de grado empresarial validadas:*
-
+### 💻 Deep Tech Stack
 <div align="center">
-
-| | Tecnologías |
-| :--- | :--- |
-| **Artificial Intelligence** | <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,githubactions" /> |
-| **Programming Core** | <img src="https://skillicons.dev/icons?i=cpp,cs,go,nodejs,ts,deno" /> |
-| **Backend & Architecture** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,aws,kubernetes" /> |
-| **Frontend Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /> |
-
+  <img src="https://skillicons.dev/icons?i=py,fastapi,githubactions,cpp,go,cs,nodejs,ts,deno,postgres,mysql,sqlite,react,nextjs,docker,aws&perline=8" />
 </div>
 
 ---
 
-### 📈 Mission Briefing & Performance
-*(Métricas directas de ingeniería)*
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PromarkSanchez&show_icons=true&theme=nightowl&count_private=true&hide_border=true&title_color=00ffdc&icon_color=00ffdc" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromarkSanchez&layout=compact&theme=nightowl&hide_border=true&title_color=00ffdc" width="42%" />
-
-</div>
+### 📡 Database & Infrastructure
+- **Vector Stores:** PgVector, Redis (Semantic Cache).
+- **SQL Engines:** PostgreSQL, MySQL, SQLite (Arquitecturas relacionales robustas).
+- **DevOps/MLOps:** CI/CD Automation, Containerization (Docker), Model Deployment.
 
 ---
 
-### ⚡ Technical Execution
-- **IA Agéntica:** Diseño de arquitecturas capaces de auto-corregir sus flujos de trabajo.
-- **MLOps:** Despliegue de pipelines de inferencia en tiempo real.
-- **Legacy Mastery:** Capacidad de optimización de sistemas críticos en C++ y C#.
+### 🧪 Personal Research Interests
+*(Lo que estoy explorando actualmente)*
+- **Self-Reflective Agents:** IAs que auditan su propia respuesta antes de la salida.
+- **Deno for Backend Scalability:** Explorando el runtime para entornos edge de baja latencia.
 
 ---
 
-### 🕹️ Outside the Matrix
-Cuando no estoy definiendo la próxima iteración de la IA, me encuentro optimizando APMs en **Dota 2**. Entiendo el desarrollo de software como una partida de alto rango: el posicionamiento, el farming de conocimiento y el timing de los releases deciden el resultado.
+### 🎮 The Strat Corner (Dota 2)
+Entiendo el código como el carril central: **Posicionamiento, Timing y Eficiencia**. 
+Si buscas un equipo para una partida estratégica o para discutir la última actualización del meta de Valve, me encontrarás aplicando lógica de IA bajo presión en **Dota 2**.
+
+---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Information%20is%20the%20oil%20of%20the%2021st%20century%2C%20and%20analytics%20is%20the%20combustion%20engine.&author=Peter%20Sondergaard" width="100%" />
-</div>
 
-<div align="center">
-  <sub>Profile build 1.2.4 | Status: <img src="https://img.shields.io/badge/Online-Active-00ffdc?style=flat-square" /></sub>
+| Technical Profile Statistics (Daily Build) |
+| :--- |
+| ![Visitor Count](https://komarev.com/ghpvc/?username=PromarkSanchez&color=00f2ff&style=flat-square&label=SYS_PROFILE_VIEWS) |
+| <img src="https://img.shields.io/badge/Agentic_AI-Validated-success?style=flat-square" /> <img src="https://img.shields.io/badge/MLOps-Deployment_Ready-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Backend-Full_Efficiency-orange?style=flat-square" /> |
+
+<sub>*Nota: Mis estadísticas de código no reflejan repositorios empresariales privados de acuerdo a políticas de Atiqtec.*</sub>
+
 </div>
