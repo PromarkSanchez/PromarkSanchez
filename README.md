@@ -1,76 +1,67 @@
 <div align="center">
 
-<!-- Banner Dinámico: Estilo Hardware / IA -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=PERSEO%20SANCHEZ&fontSize=70&fontColor=00f2ff&desc=AI%20FRONTIER%20ENGINEER%20|%20CAG%20&%20RAG%20SPECIALIST&descSize=20&descAlignY=70&animation=twinkling" width="100%" />
+<!-- Banner Dinámico: High-Performance Architecture -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0e14&height=220&section=header&text=PERSEO%20%20SANCHEZ&fontSize=75&fontColor=00f2ff&desc=%E2%9A%A1%20SYSTEM%20ARCHITECT%20%7C%20AI%20KERNEL%20ENGINEER&descSize=20&descAlignY=72&animation=twinkling" width="100%" />
 
-<!-- Foto de Perfil con Aura Cian -->
-<img src="https://avatars.githubusercontent.com/u/189292448?v=4" width="140" style="border-radius: 50%; border: 3px solid #00f2ff; box-shadow: 0 0 25px #00f2ff; margin-top: -70px;" />
+<img src="https://avatars.githubusercontent.com/u/189292448?v=4" width="140" style="border-radius: 50%; border: 3px solid #00f2ff; box-shadow: 0 0 20px #00f2ff; margin-top: -70px; position: relative;" />
 
-### `[ STATUS: AUTHORIZED ]` • `[ ROLE: AI_SYSTEMS_ARCHITECT ]` • `[ LOC: LIMA_PE ]`
+### `[ AUTHORITY: ARCHITECT_S_LEVEL ]` • `[ OPS: FULL_STACK_ENGINEERING ]`
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/perseo-sanchez-valverde-7075b4110)
-[![Website](https://img.shields.io/badge/COMPANY-ATIQTEC-7119ea?style=for-the-badge&logo=rocket)](https://atiqtec.com/)
-[![Support](https://img.shields.io/badge/TECH-FRONT_END_DEV-success?style=for-the-badge)](https://atiqtec.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/perseo-sanchez-valverde-7075b4110)
+[![Atiqtec Website](https://img.shields.io/badge/Atiqtec-Enterprise_AI-7119ea?style=for-the-badge&logo=rocket)](https://atiqtec.com/)
+[![Stack](https://img.shields.io/badge/Stack-Full--spectrum-00f2ff?style=for-the-badge)](https://github.com/PromarkSanchez)
+
+---
+
+### 🛡️ Engineering Vision: "From Bitwise to Interface"
+
+Mi enfoque trasciende el desarrollo convencional. Fusiono la eficiencia quirúrgica del **Bajo Nivel (C/C++ nativo)** con la orquestación masiva de **IA Empresarial**. Construyo sistemas capaces de razonar, escalar y procesar datos con latencia mínima, conectando algoritmos de búsqueda vectorial directamente con UX reactivas.
 
 </div>
 
+#### 🧠 Deep AI & Intelligence Orchestration
+*   **Vector Engine Internals:** Desarrollo de extensiones para bases de datos (PostgreSQL), optimizando índices **HNSW** y operaciones binarias a bajo nivel para recuperación semántica ultrarrápida.
+*   **Advanced Inference Models:** Implementación de protocolos **CAG (Cache-Augmented Generation)** y optimización **TOON** (Token-Oriented Object Notation) para reducción masiva de costos y latencia.
+*   **Agentic Systems:** Diseño de grafos autónomos (**LangGraph**) y servidores **MCP** (Model Context Protocol) para conectar IAs con herramientas corporativas en tiempo real.
+
+#### 🏗️ High-Performance Systems Engineering
+*   **Concurrency Mastery:** Arquitecturas distribuidas en **FastAPI**, **Go**, **Deno** y **C#** diseñadas para manejar **+10,000 usuarios concurrentes**.
+*   **Web Engineering (Next.js 14):** Interfaces Pro con **React Query** para estados complejos, streaming por **SSE** y componentes modulares con **Tailwind CSS**.
+*   **Enterprise Ops:** Seguridad bimodal avanzada (**JWT / MFA**) integrada con **Directorio Activo (AD)** y monitoreo reactivo mediante flujos de salud sistémica.
+
 ---
 
-### 🧠 Core Focus: High-Efficiency Intelligent Systems
-Mi arquitectura técnica se enfoca en maximizar la capacidad cognitiva de los LLMs mediante la optimización de la infraestructura y el flujo de datos.
+### 🚀 Star Infrastructure: [AtiqBot Core Engine]
+> *Orquestación inteligente para escala industrial.*
 
-#### 🔭 Next-Gen Architectures & Trends
-*   **CAG (Cache-Augmented Generation):** Pionero en la implementación de generación aumentada por caché. Reduzco drásticamente la latencia eliminando la necesidad de recuperación de base de datos repetitiva para contextos de alta frecuencia.
-*   **Token Optimization & Toon Strategist:** Aplicación de técnicas de compresión de prompts y optimización de "Toons" (Token Units). Capacidad para gestionar contextos masivos minimizando el KV Cache y optimizando los costos operativos de inferencia.
-*   **Agentic Frameworks:** Desarrollo de grafos complejos con **LangGraph** que implementan ciclos de razonamiento, validación y ejecución autónoma de herramientas.
 
----
-
-### ⚒️ Multilingual Tech Stack
-*Ingeniería de alta performance para sistemas de grado empresarial.*
-
+const atiqbot_kernel = {
+  computing: "C++ Native Vector Optimization (Bitwise Aware)",
+  capacity: "10,000+ Concurrent Multi-sessions",
+  perception: ["Vision AI (AWS Rekognition)", "Voice VAD", "Streaming SSE"],
+  protocol: "Next-Gen TOON & CAG Implementation",
+  security: "Hybrid Auth: JWT + AD + Fernet Encrypted Data"
+};
+⚒️ System & Development Forge
 <div align="center">
-
-| Area | Technologies |
-| :--- | :--- |
-| **Artificial Intelligence** | <img src="https://skillicons.dev/icons?i=py,fastapi,githubactions,pytorch" /> |
-| **Performance Backend** | <img src="https://skillicons.dev/icons?i=cpp,go,cs,nodejs,ts,deno" /> |
-| **Persistence & Memory** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" /> |
-| **Scalable Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux" /> |
-| **Interfaces (Edge)** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" /> |
-
+Core & Performance	AI & Backend Engines	Frontend & Interfaces	Infra & Runtime
+<img src="https://skillicons.dev/icons?i=cpp,c,cs" />	<img src="https://skillicons.dev/icons?i=py,fastapi,pytorch" />	<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" />	<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux" />
 </div>
-
----
-
-### 📂 Private Deployment Metrics (Atiqtec Logs)
-*Como ingeniero en **Atiqtec**, mi producción principal reside en repositorios empresariales protegidos. Estas métricas representan el benchmark de mis capacidades:*
-
+📈 Internal Performance Logs (Capability Score)
+Análisis sistémico basado en producción real en Atiqtec:
 <div align="center">
-
-| Specialized Track | Intelligence Score |
-| :--- | :--- |
-| **Autonomous Agent Systems** | `████████████████████ 100%` |
-| **RAG / CAG Implementation** | `██████████████████░░ 90%` |
-| **Token Cost Efficiency** | `████████████████████ 100%` |
-| **Scalable Microservices** | `██████████████████░░ 90%` |
-
+Operational Track	Progress Metrics	Status
+Low-Level Development (HNSW/Kernel)	████████████████████ 100%	EXCELLENT
+Generative AI (CAG / TOON Optimization)	████████████████████ 100%	MASTERED
+Scalable Infrastructure (MLOps / DevOps)	██████████████████░░ 95%	STABLE
+Enterprise Security Integration (MFA/AD)	████████████████████ 100%	ENCRYPTED
 </div>
-
----
-
-### 🕹️ Strategy Mode: DOTA 2
-No veo el Dota 2 como un juego, sino como un **campo de simulación táctica**. La gestión de recursos, el control del mapa y el timing de las "Team Fights" requieren la misma capacidad analítica que la orquestación de una infraestructura en la nube bajo condiciones críticas.
-
----
-
+🕹️ Strategy Node (The Dota Perspective)
+Entiendo el desarrollo como el carril central de Dota 2: es una cuestión de reacción instantánea, farm de conocimientos y timing quirúrgico. Si un microservicio (o un miembro de la party) pierde la sincronía, el sistema (la partida) colapsa. Mi meta: la victoria definitiva en el despliegue a producción.
 <div align="center">
-
-<!-- Pie de página mejorado y estable -->
+<!-- Footer mejorado -->
 <p align="center">
-  <kbd><b>PERSEO SANCHEZ</b></kbd> | <kbd>REV. 2025.1.STABLE</kbd>
+<kbd><b>IDENTITY: PERSEO_SANCHEZ</b></kbd> | <kbd>STABLE BUILD 2.5.0-V4</kbd>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=PromarkSanchez&color=00f2ff&style=flat-square&label=PULSE_CHECKS" alt="Visitor Count" />
-
+<img src="https://komarev.com/ghpvc/?username=PromarkSanchez&color=00f2ff&style=flat-square&label=TERMINAL_ACCESS" alt="Visitor Count" />
 </div>
