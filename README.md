@@ -46,23 +46,43 @@ const atiqbot_kernel = {
   protocol: "Next-Gen TOON & CAG Implementation",
   security: "Hybrid Auth: JWT + AD + Fernet Encrypted Data"
 };
+```
+
+### ⚒️ System & Development Forge
+
+| Core & Performance | AI & Backend | Frontend & UI | Infra & Runtime |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=cpp,c,cs" /> | <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux" /> |
+
 <br />
-⚒️ System & Development Forge
-Core & Performance	AI & Backend	Frontend & UI	Infra & Runtime
-<img src="https://skillicons.dev/icons?i=cpp,c,cs" />	<img src="https://skillicons.dev/icons?i=py,fastapi,pytorch" />	<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" />	<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux" />
+
+---
+
+### 📈 Internal Performance Logs (Capability Score)
+
+| Operational Track | Progress Metrics | Status |
+| :--- | :--- | :--- |
+| **Low-Level Dev** | `████████████████████` 100% | `EXCELLENT` |
+| **Generative AI** | `████████████████████` 100% | `MASTERED` |
+| **Scalable Infra** | `██████████████████░░` 95% | `STABLE` |
+| **Enterprise Security** | `████████████████████` 100% | `ENCRYPTED` |
+
 <br />
-📈 Internal Performance Logs (Capability Score)
-Operational Track	Progress Metrics	Status
-Low-Level Dev	████████████████████ 100%	EXCELLENT
-Generative AI	████████████████████ 100%	MASTERED
-Scalable Infra	██████████████████░░ 95%	STABLE
-Enterprise Security	████████████████████ 100%	ENCRYPTED
+
+---
+
+### 🕹️ Strategy Node (The Dota Perspective)
+
+Entiendo el desarrollo como el **carril central de Dota 2**: reacción instantánea y timing quirúrgico. Si un microservicio pierde la sincronía, el sistema colapsa. Mi meta: la victoria definitiva en producción.
+
 <br />
-🕹️ Strategy Node (The Dota Perspective)
-Entiendo el desarrollo como el carril central de Dota 2: reacción instantánea y timing quirúrgico. Si un microservicio pierde la sincronía, el sistema colapsa. Mi meta: la victoria definitiva en producción.
-<br />
+
 <div align="center">
+
 <kbd><b>IDENTITY: PERSEO_SANCHEZ</b></kbd> | <kbd>STABLE BUILD 2.5.0-V4</kbd>
+
 <br /><br />
+
 <img src="https://komarev.com/ghpvc/?username=PromarkSanchez&color=00f2ff&style=flat-square&label=TERMINAL_ACCESS" alt="Visitor Count" />
+
 </div>
